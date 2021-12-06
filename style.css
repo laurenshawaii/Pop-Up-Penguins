@@ -1,0 +1,133 @@
+body {
+	background-color: #ccf5f5;
+}
+#gameholder {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#title {
+	width: 600px;
+	height: 150px;
+	background-image:url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_title.png');
+}
+.penguin1 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image:url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/mound_1_hover.png');
+}
+.penguin2 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image:url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/mound_2_hover.png');
+}
+.penguin3 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image:url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/mound_3_hover.png');
+}
+.penguin4 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image:url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/mound_4_hover.png');
+}
+.penguin5 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image:url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/mound_5_hover.png');
+}
+.penguin6 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image:url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/mound_6_hover.png');
+}
+.penguin7 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image:url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/mound_7_hover.png');
+}
+.penguin8 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image:url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/mound_8_hover.png');
+}
+.yeti {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image:url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/mound_9_hover.png');
+}
+.penguin1:hover {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_1.png');
+	cursor: pointer;
+}
+.penguin2:hover {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_2.png');
+	cursor: pointer;
+}
+.penguin3:hover {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_3.png');
+	cursor: pointer;
+}
+.penguin4:hover {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_4.png');
+	cursor: pointer;
+}
+.penguin5:hover {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_5.png');
+	cursor: pointer;
+}
+.penguin6:hover {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_6.png');
+	cursor: pointer;
+}
+.penguin7:hover {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_7.png');
+	cursor: pointer;
+}
+.penguin8:hover {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_8.png');
+	cursor: pointer;
+}
+.yeti:hover {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/yeti.png');
+	cursor: pointer;
+}
+.penguin1:active {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_1.png');
+}
+.penguin2:active {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_2.png');
+}
+.penguin3:active {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_3.png');
+}
+.penguin4:active {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_4.png');
+}
+.penguin5:active {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_5.png');
+}
+.penguin6:active {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_6.png');
+}
+.penguin7:active {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_7.png');
+}
+.penguin8:active {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_8.png');
+}
+.penguin9:active {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/penguin_9.png');
+}
+.yeti:active {
+	background-image: url('C:/Users/Lauren/Desktop/Pop Up Penguins/penguin_pngs/Media/yeti.png');
+}
